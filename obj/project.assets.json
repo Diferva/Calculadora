@@ -1116,11 +1116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FERNANDA\\INFORMATICA Y OTROS\\SEMESTRE 8\\Calidad\\Corte 1\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Diferva\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "D:\\FERNANDA\\INFORMATICA Y OTROS\\SEMESTRE 8\\Calidad\\Corte 1\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Diferva\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\FERNANDA\\INFORMATICA Y OTROS\\SEMESTRE 8\\Calidad\\Corte 1\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Diferva\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

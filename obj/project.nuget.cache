@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lZrlHc6F2hk=",
+  "dgSpecHash": "T7OS9cPnfCI=",
   "success": true,
-  "projectFilePath": "D:\\FERNANDA\\INFORMATICA Y OTROS\\SEMESTRE 8\\Calidad\\Corte 1\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\Diferva\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.5.3\\microsoft.testing.extensions.telemetry.1.5.3.nupkg.sha512",
